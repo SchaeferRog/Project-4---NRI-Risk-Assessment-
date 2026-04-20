@@ -22,15 +22,6 @@ Risk Index = (Expected Annual Loss × Social Vulnerability) / Community Resilien
 
 ---
 
-## Data Sources
-| Dataset | Use |
-|---|---|
-| [FEMA National Risk Index](https://hazards.fema.gov/nri/data-resources) | Primary risk dataset |
-| [CDC/ATSDR Social Vulnerability Index (SVI)](https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html) | Cross-reference social factors (poverty, housing, vehicle access) |
-| [FEMA Hazus Technical Manuals](https://www.fema.gov/flood-maps/tools-resources/flood-map-products/hazus/documentation) | Understanding Expected Annual Loss modeling |
-
----
-
 ## Repository Contents
 | File | Description |
 |---|---|
