@@ -3,7 +3,7 @@
 
 ## LINK TO DATA FILES
 Due to the large size of the data files used, they may be accessed below using the One Drive folder link. 
-https://uofnebraska-my.sharepoint.com/:f:/g/personal/46376985_nebraska_edu/IgC5XqfktxwcTbSiG-SYUbjFAevTQAYpaiaSEgds5S9hOKM?e=Xgj7lf
+
 [Raw Data Files](https://uofnebraska-my.sharepoint.com/:f:/g/personal/46376985_nebraska_edu/IgC5XqfktxwcTbSiG-SYUbjFAevTQAYpaiaSEgds5S9hOKM?e=Xgj7lf)
 
 ## Overview
