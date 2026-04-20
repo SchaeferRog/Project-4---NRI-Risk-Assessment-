@@ -1,6 +1,11 @@
 # FEMA National Risk Index — Sensitivity Analysis
 **CIVE 202 | Spring 2026 | Group 151-14**
 
+## LINK TO DATA FILES
+Due to the large size of the data files used, they may be accessed below using the One Drive folder link. 
+https://uofnebraska-my.sharepoint.com/:f:/g/personal/46376985_nebraska_edu/IgC5XqfktxwcTbSiG-SYUbjFAevTQAYpaiaSEgds5S9hOKM?e=Xgj7lf
+[Raw Data Files](https://uofnebraska-my.sharepoint.com/:f:/g/personal/46376985_nebraska_edu/IgC5XqfktxwcTbSiG-SYUbjFAevTQAYpaiaSEgds5S9hOKM?e=Xgj7lf)
+
 ## Overview
 This project conducts a sensitivity analysis of the [FEMA National Risk Index (NRI)](https://hazards.fema.gov/nri/) to identify potential categorical bias. The current NRI scoring method is compared against an alternative risk model developed by our team:
 
