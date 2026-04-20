@@ -27,9 +27,9 @@ Risk Index = (Expected Annual Loss × Social Vulnerability) / Community Resilien
 |---|---|
 | `CIVE202_Spring2026_P4-151-14_Project4_GanttChart` | Project timeline |
 | `CIVE202_Spring2026_P4-151-14_Project4_SOW` | Scope of Work |
-| `CIVE202_Spring2026_P4-151-14_Project4_PythonCode` | Analysis scripts |
+| `CIVE202_Spring2026_P4-151-14_Project4_PythonCode` | Python code |
 | `CIVE202_Spring2026_P4-151-14_Project4_ACD` | Annotated Code Document |
-| `CIVE202_Spring2026_P4-151-14_Project4_TimeSheet` | Team time log |
+| `CIVE202_Spring2026_P4-151-14_Project4_TimeSheet` | Team time sheet |
 | `CIVE202_Spring2026_P4-151-14_Project4_Report` | Final report (methodology + bias discussion) |
 
 ---
